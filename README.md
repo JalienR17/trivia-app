@@ -28,7 +28,7 @@ npm install
 
 
 3. Run the App
-npm start
+npm run preview
 
 
 This will start the app at http://localhost:3000 by default. Open in your browser and start playing!

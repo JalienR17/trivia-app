@@ -17,8 +17,9 @@ body {
   align-items: center;
   display: flex;
   width: auto;
-  height: 100vh;
+  height: 100vh auto;
   justify-content: center;
+  flex: 1;
 }
 
 h1 {
